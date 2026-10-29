@@ -6,5 +6,6 @@ build/
 .idea/
 .gradle/
 /x/
+/.tools/
 local.properties
 /scrcpy-server
